@@ -1,7 +1,7 @@
 [project]
 name = "psx-chd-renamer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Utility for renaming PS1 CHD and ISO files with standardized, metadata-aware naming conventions"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

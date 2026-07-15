@@ -27,6 +27,7 @@ Redump will be the prime choice; PSX data center will only be queried if a match
 git clone https://github.com/yourusername/psx-chd-renamer_revamp.git
 cd psx-chd-renamer_revamp
 ```
+
 - Install the project and dev dependencies with uv:
 ```bash
 uv sync --extra dev
@@ -94,6 +95,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 This repository bundles metadata parsing tables derived from community database archives. 
 
 1. **Redump Data:** Game data are partly sourced from Redump.org. This data is utilized strictly for non-commercial game preservation and validation purposes under fair-use principles.
-2. **PSXDataCenter Data:** Game data are partly sourced directly from PSXDataCenter (https://psxdatacenter.com). In accordance with their terms, this data is distributed freely with full credit attributed back to the original maintainers.
+2. **PSXDataCenter Data:** Game data are partly sourced directly from [PSXDataCenter](https://psxdatacenter.com). In accordance with their terms, this data is distributed freely with full credit attributed back to the original maintainers.
 
 This project is a non-commercial, personal tool. All rights to the underlying video game metadata belong to their respective community curators.
